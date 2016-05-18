@@ -1,0 +1,28 @@
+name: Mikey Jay
+favicon: null
+layout_spectrum: 0.7726556390989572
+typography_spectrum: 0.939867410575971
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9805401801131666
+  lightness: 0.21060166275128722
+  saturation: 0.14522963156923652
+  rhythmicContrast: 0.3366042007692158
+purpose: []
